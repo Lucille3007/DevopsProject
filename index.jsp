@@ -7,8 +7,8 @@
       <center>
 	 <h1>Devops Course</h1>
 	 <br />
-	 <button type="button" onclick="window.location=./image.jsp">Open Image</button> 
-	 <button type="button" onclick="window.location=./name.jsp">Open My Name</button> 
+	 <button type="button" onclick="window.location.href=./image.jsp">Open Image</button> 
+	 <button type="button" onclick="window.location.href=./name.jsp">Open My Name</button> 
       </center>
    </body>
 </html>
