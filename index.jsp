@@ -10,10 +10,10 @@
 	 <button type="button" onclick="redirect('image.jsp')">Open Image</button>
 	 <button type="button" onclick="redirect('image.jsp')">Open Image</button>
       </center>
-<script>
+<%
     function redirect(page) {
         window.location.href = "./" + page;
     }
-</script>
+%>
    </body>
 </html>
