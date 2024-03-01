@@ -8,7 +8,7 @@
 
 	 <h1>Devops Course</h1>
 	 <br /><br /><br />
-	 <img src="C:\Users\Student\Desktop\Monitoring Task\devops_img" width="240" height="300"/>
+	 <img src="devops_img.jpg" width="240" height="300"/>
 	 <br /><br /><br />
 	 <button type="button" onclick="window.location=/index.jsp">Home Page</button> 
 	 <button type="button" onclick="window.location=/name.jsp">Open My Name</button> 
