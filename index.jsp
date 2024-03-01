@@ -7,10 +7,8 @@
       <center>
 	 <h1>Devops Course</h1>
 	 <br />
-	 <button type="button" onclick="window.location=/image.jsp">Open Image</button> 
-	 <button type="button" onclick="window.location=/name.jsp">Open My Name</button> 
-	 <img src="C:\Users\Student\Desktop\Monitoring Task\devops_img" width="240" height="300"/>
-	 <h2>This is the current date & time:</h2>
+	 <button type="button" onclick="window.location=./image.jsp">Open Image</button> 
+	 <button type="button" onclick="window.location=./name.jsp">Open My Name</button> 
       </center>
    </body>
 </html>
