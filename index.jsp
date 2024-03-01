@@ -1,4 +1,4 @@
-<%@ page import = "java.io.*,java.util.*, javax.servlet.*" %>
+<%@ page import = "java.io.*,java.util.*, javax.servlet.*, javax.servlet.RequestDispatche" %>
 <html>
    <head>
       <title>Home Page</title>
@@ -7,8 +7,13 @@
       <center>
 	 <h1>Devops Course</h1>
 	 <br />
-	 <button type="button" onclick="window.location.href=./image.jsp">Open Image</button> 
-	 <button type="button" onclick="window.location.href=./name.jsp">Open My Name</button> 
+	 <button type="button" onclick="redirect('image.jsp')">Open Image</button>
+	 <button type="button" onclick="redirect('image.jsp')">Open Image</button>
       </center>
+<script>
+    function redirect(page) {
+        window.location.href = "./" + page;
+    }
+</script>
    </body>
 </html>
