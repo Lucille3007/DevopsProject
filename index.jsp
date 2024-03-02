@@ -8,7 +8,7 @@
 	 <h1>Devops Course</h1>
 	 <br /><br /><br />
 	 <a href="image.jsp"> Open Image </a>
-	 <a href="name.jsp"> Open Name </a>
+	 <a href="name.jsp"> Open My Name </a>
       </center>
    </body>
 </html>
