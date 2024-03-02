@@ -10,8 +10,8 @@
 	 <br /><br /><br />
 	 <img src="devops_img.jpg" width="240" height="300"/>
 	 <br /><br /><br />
-	 <button type="button" onclick="window.location=/index.jsp">Home Page</button> 
-	 <button type="button" onclick="window.location=/name.jsp">Open My Name</button> 
+	 <a href="index.jsp"> Home Page </a>
+	 <a href="name.jsp"> Open My Name </a>
 
       </center>
    </body>
