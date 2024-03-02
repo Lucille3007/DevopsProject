@@ -10,8 +10,8 @@
 	 <br /><br /><br />
 	 <h2>My name is Lusil Grozdanov</h2>
 	 <br /><br /><br />
-	 <button type="button" onclick="window.location=/index.jsp">Home Page</button> 
-	 <button type="button" onclick="window.location=/image.jsp">Open Image</button> 
+	 <a href="index.jsp"> Home Page</a>
+	 <a href="image.jsp"> Open Image</a>
 
       </center>
    </body>
