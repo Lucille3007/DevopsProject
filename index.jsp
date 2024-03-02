@@ -5,9 +5,11 @@
    </head>
    <body style="background-color: #FFD966;">
       <center>
+	 <br /><br />
 	 <h1>Devops Course</h1>
 	 <br /><br /><br />
 	 <a href="image.jsp"> Open Image </a>
+	 <br /><br /><br />
 	 <a href="name.jsp"> Open My Name </a>
       </center>
    </body>
