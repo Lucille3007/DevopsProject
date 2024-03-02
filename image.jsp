@@ -8,7 +8,7 @@
 	 <br /><br />
 	 <h1>Devops Course</h1>
 	 <br /><br /><br />
-	 <img src="./devops_img.jpg"/>
+	 <img src="devops_img.jpg"/>
 	 <br /><br /><br />
 	 <a href="index.jsp"> Home Page </a>
 	 <br /><br /><br />
