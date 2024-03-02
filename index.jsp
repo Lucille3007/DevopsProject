@@ -6,14 +6,9 @@
    <body style="background-color: #FFD966;">
       <center>
 	 <h1>Devops Course</h1>
-	 <br />
-	 <button type="button" onclick="redirect('image.jsp')">Open Image</button>
-	 <button type="button" onclick="redirect('image.jsp')">Open Image</button>
+	 <br /><br /><br />
+	 <a href="image.jsp"> Open Image </a>
+	 <a href="name.jsp"> Open Name </a>
       </center>
-<%
-    function redirect(page) {
-        window.location.href = "./" + page;
-    }
-%>
    </body>
 </html>
